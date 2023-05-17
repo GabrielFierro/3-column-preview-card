@@ -522,6 +522,14 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.font-title {
+  font-family: Big Shoulders Display, cursive;
+}
+
+.font-accent {
+  font-family: Lexend Deca, sans-serif;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
